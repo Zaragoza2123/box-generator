@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.boxs {
+  display: flex;
+  justify-content: space-evenly;
+}
 
 .App-logo {
   height: 40vmin;
